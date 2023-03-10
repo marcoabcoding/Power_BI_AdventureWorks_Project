@@ -8,7 +8,7 @@ Power BI project made in course using data modeling, DAX, Functions, Data Visual
 ![dashboard 1](https://user-images.githubusercontent.com/86270206/224218839-4f19b612-529e-43f8-b07d-54f445dc2599.png)
 
 
-![dashboard 1](https://user-images.githubusercontent.com/86270206/224442840-b14c2a86-4231-42c6-9f46-3cab70dc9524.png)
+![dashboard 1 1](https://user-images.githubusercontent.com/86270206/224442937-aa0e4527-cb69-4cab-a992-209ff4a2f316.png)
 
 
 ![dashboard 2](https://user-images.githubusercontent.com/86270206/224218859-19ec488d-9d70-49f6-be09-3b52663ab9da.png)
