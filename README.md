@@ -1,4 +1,4 @@
-# Power-BI_project
+# Power BI Project
 Power BI project made in course using data modeling, DAX, Functions, Data Visualization etc.
 
 
