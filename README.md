@@ -1,5 +1,5 @@
 # Power BI Project
-Power BI project made using data modeling, DAX, Functions, Data Visualization etc.
+Power BI project made using data modeling, DAX, Functions, Data Visualization to improve the company's management.
 
 
 
